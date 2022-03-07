@@ -2,3 +2,5 @@ node_modules/
 test.*
 config.json
 data/*
+run.ps1
+nodejs/
